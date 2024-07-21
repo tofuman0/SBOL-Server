@@ -7,15 +7,3 @@
 [submodule "Libraries/BlowFishSBOL"]
 	path = Libraries/BlowFishSBOL
 	url = https://github.com/tofuman0/BlowFishSBOL.git
-[submodule "Libraries/nlohmann"]
-	path = Libraries/nlohmann
-	url = https://github.com/nlohmann/json.git
-[submodule "Libraries/openssl"]
-	path = Libraries/openssl
-	url = https://github.com/openssl/openssl.git
-[submodule "Libraries/SQLite"]
-	path = Libraries/SQLite
-	url = https://github.com/sqlite/sqlite.git
-[submodule "Libraries/MySQL"]
-	path = Libraries/MySQL
-	url = https://github.com/mysql/mysql-connector-cpp.git
