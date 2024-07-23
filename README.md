@@ -46,8 +46,8 @@ ADDR=127.0.0.1
 PORT=47701
 SIDE=0
 ```
-It doesn't matter what is in the square brakets so you are free to enter whatever you like there. By default SERVER01 and SERVER02 are used.
-TYPE appears to exclude the server from connections when set to anything other than 0
-ADDR is the battle server IP address
-PORT is the battle server port
-SIDE is unclear what this does but is set to 0 in the default file.
+It doesn't matter what is in the square brakets so you are free to enter whatever you like there. By default SERVER01 and SERVER02 are used.<br/>
+TYPE appears to exclude the server from connections when set to anything other than 0<br/>
+ADDR is the battle server IP address<br/>
+PORT is the battle server port<br/>
+SIDE is unclear what this does but is set to 0 in the default file.<br/>
